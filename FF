@@ -1,0 +1,26 @@
+{
+  "players": [
+    {
+      "id": "player1",
+      "name": "JohnDoe",
+      "location": {
+        "latitude": 23.8103,
+        "longitude": 90.4125
+      },
+      "score": 1500,
+      "rank": "Gold",
+      "status": "Online"
+    },
+    {
+      "id": "player2",
+      "name": "JaneSmith",
+      "location": {
+        "latitude": 24.8968,
+        "longitude": 91.8123
+      },
+      "score": 2000,
+      "rank": "Platinum",
+      "status": "Offline"
+    }
+  ]
+}
